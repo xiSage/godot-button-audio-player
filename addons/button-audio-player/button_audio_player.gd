@@ -1,7 +1,7 @@
-// Copyright (c) 2025 xiSage
-// 
-// This software is released under the MIT License.
-// https://opensource.org/licenses/MIT
+# Copyright (c) 2025 xiSage
+# 
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
 
 class_name ButtonAudioPlayer extends AudioStreamPlayer
 
