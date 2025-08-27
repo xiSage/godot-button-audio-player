@@ -3,6 +3,7 @@
 # This software is released under the MIT License.
 # https://opensource.org/licenses/MIT
 
+@icon("res://addons/button-audio-player/icon.svg")
 class_name ButtonAudioPlayer extends AudioStreamPlayer
 
 

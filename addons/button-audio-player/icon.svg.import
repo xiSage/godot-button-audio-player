@@ -2,8 +2,8 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dicwa8ojf82v3"
-path="res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"
+uid="uid://ck4dtudblfyh2"
+path="res://.godot/imported/icon.svg-f3a580c1bb58f2ea23798b66a1f50072.ctex"
 metadata={
 "has_editor_variant": true,
 "vram_texture": false
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://icon.svg"
-dest_files=["res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"]
+source_file="res://addons/button-audio-player/icon.svg"
+dest_files=["res://.godot/imported/icon.svg-f3a580c1bb58f2ea23798b66a1f50072.ctex"]
 
 [params]
 
