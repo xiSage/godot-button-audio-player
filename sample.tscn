@@ -1,0 +1,31 @@
+[gd_scene load_steps=2 format=3 uid="uid://c3s74ecdbkndl"]
+
+[ext_resource type="Script" uid="uid://cpypb0vtqg7u8" path="res://addons/button-audio-player/button_audio_player.gd" id="1_uledb"]
+
+[node name="Sample" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.5
+offset_top = -15.5
+offset_right = 20.5
+offset_bottom = 15.5
+grow_horizontal = 2
+grow_vertical = 2
+toggle_mode = true
+text = "Test"
+
+[node name="ButtonAudioPlayer" type="AudioStreamPlayer" parent="Button"]
+script = ExtResource("1_uledb")
+metadata/_custom_type_script = "uid://cpypb0vtqg7u8"
