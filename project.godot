@@ -11,8 +11,9 @@ config_version=5
 [application]
 
 config/name="ButtonAudioPlayer"
+run/main_scene="uid://c3s74ecdbkndl"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="uid://crg5qydbmmve4"
 
 [dotnet]
 
