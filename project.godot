@@ -15,6 +15,11 @@ run/main_scene="uid://c3s74ecdbkndl"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="uid://crg5qydbmmve4"
 
+[display]
+
+window/size/viewport_width=300
+window/size/viewport_height=400
+
 [dotnet]
 
 project/assembly_name="ButtonAudioPlayer"
